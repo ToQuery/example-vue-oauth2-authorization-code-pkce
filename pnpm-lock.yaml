@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   oidc-client-ts:
-    specifier: ^3.0.0
-    version: 3.0.0
+    specifier: ^3.0.1
+    version: 3.0.1
   vue:
     specifier: ^3.3.11
     version: 3.4.15(typescript@5.3.3)
@@ -1944,8 +1944,8 @@ packages:
       boolbase: 1.0.0
     dev: true
 
-  /oidc-client-ts@3.0.0:
-    resolution: {integrity: sha512-YUcel/+C4AmXXhM/geNWc1jBsBVYzd+xhvSl1NMkxKpzZXqhLKmtj1ttSdxtDYm3P2YelnAr4zS4c96+p02iFQ==}
+  /oidc-client-ts@3.0.1:
+    resolution: {integrity: sha512-xX8unZNtmtw3sOz4FPSqDhkLFnxCDsdo2qhFEH2opgWnF/iXMFoYdBQzkwCxAZVgt3FT3DnuBY3k80EZHT0RYg==}
     engines: {node: '>=18'}
     dependencies:
       jwt-decode: 4.0.0
